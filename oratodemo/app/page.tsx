@@ -30,7 +30,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                        this is a card
+                        this is a card THis is a showcase so client can see how this works test
           </p>
 
         </a>
